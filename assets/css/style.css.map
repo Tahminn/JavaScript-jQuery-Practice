@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "style.scss",
+        "partials/variable/_variable.scss",
+        "partials/extend/_extend.scss",
+        "partials/mixins/_mixins.scss",
+        "partials/pages/_index.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
